@@ -20,19 +20,22 @@
 
 Projeto de desenvolvimento de um programa Open Source para fins de nutrição para profissionais e curiosos. 
 
-[![Github Badge](https://github.com/diegodeveloperbr/NutriAI)](LINK_GIT)
+
+
+
+
+
+
+
 
 - Obrigado Por Visitar.
 
 -  \o/
 
 ----------------------------------------------------------------------------------
+## 💾 INSTALAR E RODAR O PROJETO
 
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
-(SEU NOME) = Diego.
-
-LINK_GIT = https://github.com/diegodeveloperbr
 
 💾
 
