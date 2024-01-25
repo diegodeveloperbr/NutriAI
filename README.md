@@ -1,8 +1,3 @@
-# NutriAI
-Sistema OpenSouce de nutricao
-
-## Tecnologia 
-
 # Welcome! at NutriAI - Bem Vindo a NutriAi
 
  
