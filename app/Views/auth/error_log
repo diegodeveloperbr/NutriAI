@@ -1,0 +1,234 @@
+[07-Jan-2024 21:08:25 America/Fortaleza] PHP Warning:  include_once(../../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:08:25 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:08:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:11:22 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:22 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:22 America/Fortaleza] PHP Warning:  include_once(../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:22 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:11:31 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:31 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:31 America/Fortaleza] PHP Warning:  include_once(../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:31 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:11:32 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:32 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:32 America/Fortaleza] PHP Warning:  include_once(../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:32 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Warning:  include_once(../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Warning:  include_once(../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:11:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:16:37 America/Fortaleza] PHP Warning:  include_once(/config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:16:37 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:16:37 America/Fortaleza] PHP Warning:  include_once(/models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:16:37 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:16:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:16:38 America/Fortaleza] PHP Warning:  include_once(/config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:16:38 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:16:38 America/Fortaleza] PHP Warning:  include_once(/models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:16:38 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:16:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:16:39 America/Fortaleza] PHP Warning:  include_once(/config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:16:39 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:16:39 America/Fortaleza] PHP Warning:  include_once(/models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:16:39 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:16:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:17:24 America/Fortaleza] PHP Warning:  include_once(config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:17:24 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:17:24 America/Fortaleza] PHP Warning:  include_once(models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:17:24 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:17:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:17:51 America/Fortaleza] PHP Warning:  include_once(../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:17:51 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:17:51 America/Fortaleza] PHP Warning:  include_once(../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:17:51 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 21:17:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 21:20:51 America/Fortaleza] PHP Warning:  include_once(/home1/aondea71/wdtracker.com/app/Views/auth/../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:20:51 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/home1/aondea71/wdtracker.com/app/Views/auth/../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 21:20:51 America/Fortaleza] PHP Warning:  include_once(../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 6
+[07-Jan-2024 21:20:51 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 6
+[07-Jan-2024 21:20:51 America/Fortaleza] PHP Warning:  include_once(../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 7
+[07-Jan-2024 21:20:51 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 7
+[07-Jan-2024 21:20:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 10
+[07-Jan-2024 22:43:53 America/Fortaleza] PHP Warning:  include_once(/home1/aondea71/wdtracker.com/app/Views/auth/../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:43:53 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/home1/aondea71/wdtracker.com/app/Views/auth/../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:43:53 America/Fortaleza] PHP Warning:  include_once(../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 6
+[07-Jan-2024 22:43:53 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 6
+[07-Jan-2024 22:43:53 America/Fortaleza] PHP Warning:  include_once(../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 7
+[07-Jan-2024 22:43:53 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 7
+[07-Jan-2024 22:43:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 10
+[07-Jan-2024 22:44:28 America/Fortaleza] PHP Warning:  include_once(/home1/aondea71/wdtracker.com/app/Views/auth/../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:44:28 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/home1/aondea71/wdtracker.com/app/Views/auth/../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:44:28 America/Fortaleza] PHP Warning:  include_once(/../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 6
+[07-Jan-2024 22:44:28 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 6
+[07-Jan-2024 22:44:28 America/Fortaleza] PHP Warning:  include_once(../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 7
+[07-Jan-2024 22:44:28 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 7
+[07-Jan-2024 22:44:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 10
+[07-Jan-2024 22:45:45 America/Fortaleza] PHP Warning:  include_once(/../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:45:45 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:45:45 America/Fortaleza] PHP Warning:  include_once(../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:45:45 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:45:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:46:15 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:46:15 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:46:15 America/Fortaleza] PHP Warning:  include_once(../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:46:15 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:46:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:46:22 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:46:22 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:46:22 America/Fortaleza] PHP Warning:  include_once(../../models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:46:22 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:46:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:51:29 America/Fortaleza] PHP Warning:  include_once(wdtracker.com/config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:51:29 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'wdtracker.com/config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:51:29 America/Fortaleza] PHP Warning:  include_once(wdtracker.com/app/Models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:51:29 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'wdtracker.com/app/Models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:51:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:52:08 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:52:08 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:52:08 America/Fortaleza] PHP Warning:  include_once(../../app/Models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:52:08 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../app/Models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:52:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:52:09 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:52:09 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:52:09 America/Fortaleza] PHP Warning:  include_once(../../app/Models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:52:09 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../app/Models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:52:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:53:15 America/Fortaleza] PHP Warning:  include_once(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:53:15 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:53:15 America/Fortaleza] PHP Warning:  include_once(../../app/Models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:53:15 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../app/Models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:53:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:55:25 America/Fortaleza] PHP Warning:  include(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:55:25 America/Fortaleza] PHP Warning:  include(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:55:25 America/Fortaleza] PHP Warning:  include(../../app/Models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:55:25 America/Fortaleza] PHP Warning:  include(): Failed opening '../../app/Models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:55:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:56:05 America/Fortaleza] PHP Warning:  include(../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:56:05 America/Fortaleza] PHP Warning:  include(): Failed opening '../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:56:05 America/Fortaleza] PHP Warning:  include(../app/Models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:56:05 America/Fortaleza] PHP Warning:  include(): Failed opening '../app/Models/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:56:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 22:57:46 America/Fortaleza] PHP Warning:  require(../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:57:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../config/Database.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:58:40 America/Fortaleza] PHP Warning:  require(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:58:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/Database.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 22:59:03 America/Fortaleza] PHP Warning:  require(../app/Models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:59:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../app/Models/Usuario.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:59:43 America/Fortaleza] PHP Warning:  require(../../app/Models/Usuario.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 22:59:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../../app/Models/Usuario.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 5
+[07-Jan-2024 23:00:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 23:08:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 23:10:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 23:12:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 23:12:59 America/Fortaleza] PHP Warning:  include(../../config/Database.php): Failed to open stream: No such file or directory in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 23:12:59 America/Fortaleza] PHP Warning:  include(): Failed opening '../../config/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 4
+[07-Jan-2024 23:12:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
+[07-Jan-2024 23:13:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/aondea71/wdtracker.com/app/Views/auth/Login.php on line 8
