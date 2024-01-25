@@ -6,25 +6,25 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm a Dreamer - Eu sou um Sonhador.
 
 :house_with_garden: I’m from Brazil. -  Eu sou do Brasil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning everything. 
 
-:outbox_tray: 2024 Goals: create a new project Open Source. - Metas 2024 : Implementar um Novo Projeto Open Source.
+:outbox_tray: 2024 Goals: create a new project Open Source. -  Metas 2024 : Implementar um Novo Projeto Open Source.
 
  
 
 ## Sobre o Projeto. 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+Projeto de desenvolvimento de um programa Open Source para fins de nutrição para profissionais e curiosos. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Github Badge](https://github.com/diegodeveloperbr/NutriAI)](LINK_GIT)
 
-- Thanks for visiting.
+- Obrigado Por Visitar.
 
-- Enjoy it!! o/
+-  \o/
 
 ----------------------------------------------------------------------------------
 
@@ -32,18 +32,10 @@
 
 (SEU NOME) = Diego.
 
-LINK_GIT = https://github.com/diegodeveloperbr/NutriAI.
+LINK_GIT = https://github.com/diegodeveloperbr
 
-💾Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
+💾
 
-Emblemas.
-Para obter emblemas acesse o link abaixo:
-
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-
--  Agora escolha a imagem qual você gostaria de usar e copie a sua URl.
-
--  Assim você deve criar uma tag por exemplo: img <img src="BadgeURLHere"
 
 *OBS Já deixei uma pronta abaixo.
 
@@ -65,22 +57,6 @@ https://github.com/anuraghazra/github-readme-stats#themes
 NOMEGIT= hellenmas. 
 
 [![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
-
-GIF
-- Encontre o gif que mais combina com você nesse link:
-
-https://github.com/TheDudeThatCode/TheDudeThatCode
-
-*OBS deixo abaixo um exemplo para ser usado:
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-Imagem
-1. Você pode usar qualquer imagem que aceite markdown no Github. Se quiser pegar a imagem de algum repositório, pode usar o seguinte formato:
-
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
-
-2. Para fazer o upload de imagens basta você clicar na imagem que esta em seu computador e arrastar a imagem para o seu README.
 
 
 Emojis
