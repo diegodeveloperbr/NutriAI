@@ -20,10 +20,10 @@
 
 Projeto de desenvolvimento de um programa Open Source para fins de nutrição para profissionais e curiosos. 
 
-[*] ADD NOVOS CLIENTES/PACIENTES.
-[] REALIZAR CALCULO DE TMB.
-[] AJUSTAR DIETA.
-[] AJUSTAR PLANO ALIMENTAR. 
+-[*] ADD NOVOS CLIENTES/PACIENTES.
+-[ ] REALIZAR CALCULO DE TMB.
+-[ ] AJUSTAR DIETA.
+-[ ] AJUSTAR PLANO ALIMENTAR. 
 
 
 - Obrigado Por Visitar.
