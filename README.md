@@ -21,9 +21,6 @@
 Projeto de desenvolvimento de um programa Open Source para fins de nutrição para profissionais e curiosos. 
 
 
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
-
 -[*] ADD NOVOS CLIENTES/PACIENTES
 -[ ] REALIZAR CALCULO DE TMB
 -[ ] AJUSTAR DIETA
